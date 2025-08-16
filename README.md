@@ -13,7 +13,16 @@ Space.Tab是一个现代化的Web应用程序，提供多种功能，包括用�
 - 构建工具：Vite
 - 其他：JWT认证、Swagger API文档
 
+## wiki文档
+<p align="center">
+<a href="https://deepwiki.com/lingke-net/Space.Tab"><img src="https://www.lingke.ink/wp-content/uploads/2025/08/wiki-scaled.png" alt="pARPxN8.png" border="0" /></a>
+</p>
+
 ## 项目设置
+
+<p align="center">
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/setup-scaled.png" alt="pARPxN8.png" border="0" />
+</p>
 
 ### 环境要求
 
@@ -52,6 +61,10 @@ mysql -u your_username -p < sql/spacetab-data.sql
 
 ## 开发
 
+<p align="center">
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/dev-scaled.png" border="0" />
+</p>
+
 启动开发服务器：
 
 ```bash
@@ -62,6 +75,10 @@ pnpm dev
 
 ## 构建
 
+<p align="center">
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/build-scaled.png" alt="pARPxN8.png" border="0" />
+</p>
+
 构建生产版本：
 
 ```bash
@@ -69,6 +86,10 @@ pnpm build
 ```
 
 ## 部署
+
+<p align="center">
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/run-scaled.png" border="0" />
+</p>
 
 ### 标准部署
 
@@ -95,6 +116,10 @@ pnpm docker
 - `public/` - 静态资源文件
 
 ## 环境变量说明
+
+<p align="center">
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/env-scaled.png" alt="pARPxN8.png" border="0" />
+</p>
 
 项目使用了多种环境变量来配置不同的功能。请参考`.env.example`文件了解所有可用的配置选项。关键配置包括：
 
@@ -126,6 +151,12 @@ pnpm docker
 
 ## 安全注意事项
 
+<p align="center">
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/warning-scaled.png" alt="pARPxN8.png" border="0" />
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/warning-tip-scaled.png" alt="pARPxN8.png" border="0" />
+</p>
+
+
 1. **环境变量文件**：
    - `.env`、`.env.*` 文件包含敏感信息，已在`.gitignore`中配置为不上传
    - 永远不要将包含实际密钥的环境文件提交到版本控制系统
@@ -140,6 +171,10 @@ pnpm docker
 
 ## 贡献指南
 
+<p align="center">
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/gongxian-scaled.png" alt="pARPxN8.png" border="0" />
+</p>
+
 1. Fork项目
 2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
 3. 提交更改 (`git commit -m 'Add some amazing feature'`)
@@ -148,8 +183,8 @@ pnpm docker
 
 ## 许可证
 
-本项目遵守 GPL-3.0 license 协议，在协议规范内，禁止用于商业用途
-
 <p align="center">
-<img src="https://www.lingke.ink/wp-content/uploads/2025/08/work-scaled.png" alt="pARPxN8.png" border="0" />
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/license-scaled.png" alt="pARPxN8.png" border="0" />
 </p>
+
+本项目遵守 GPL-3.0 license 协议，在协议规范内，禁止用于商业用途
