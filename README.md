@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://www.lingke.ink/wp-content/uploads/2025/08/space-scaled.png" alt="pARPxN8.png" border="0" />
-<img src="https://www.lingke.ink/wp-content/uploads/2025/08/work-scaled.png" alt="pARPxN8.png" border="0" />
 </p>
 
 # Space.Tab
@@ -150,3 +149,7 @@ pnpm docker
 ## 许可证
 
 本项目遵守 GPL-3.0 license 协议，在协议规范内，禁止用于商业用途
+
+<p align="center">
+<img src="https://www.lingke.ink/wp-content/uploads/2025/08/work-scaled.png" alt="pARPxN8.png" border="0" />
+</p>
