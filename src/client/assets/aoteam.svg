@@ -1,0 +1,9 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" fill="none" clip-path="url(#clipPath_0)" customFrame="url(#clipPath_0)">
+	<defs>
+		<clipPath id="clipPath_0">
+			<rect width="500" height="500" x="0" y="0" rx="168" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<rect id="aoteam" width="500" height="500" x="0" y="0" rx="168" fill="rgb(255,255,255)" />
+	<path id="矢量 21" d="M43.8823 376.549C116.924 157.916 343.381 157.135 419.14 304.651C519.783 78.6034 216.003 -92.8292 0 55.523" stroke="rgb(48,58,70)" stroke-linecap="round" stroke-width="120" transform="matrix(0.224951,-0.974371,0.974371,0.224951,-62,550.749)" />
+</svg>

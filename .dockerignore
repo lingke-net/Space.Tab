@@ -1,0 +1,10 @@
+node_modules
+dist
+logs
+.git
+.github
+.vscode
+.idea
+.env
+.env.*
+*.md
